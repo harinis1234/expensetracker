@@ -53,6 +53,12 @@ Accessible across devices with a mobile-friendly and intuitive interface.
 6. Explore charts to analyze spending patterns.
 7. Data is saved in local storage for easy access anytime.
 
+## Technologies used
+
+1. HTML:Structuring the web pages and UI components.
+2. CSS:Styling the application for a clean, user-friendly interface.
+3. JavaScript: Adding interactivity and dynamic functionalities.
+
 
 ## Screenshots
 
